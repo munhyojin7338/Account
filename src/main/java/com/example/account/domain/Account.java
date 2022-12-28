@@ -1,5 +1,7 @@
 package com.example.account.domain;
-
+/*
+ZeroBase 6기 문효진
+*/
 import com.example.account.Exception.AccountException;
 import com.example.account.Type.AccountStatus;
 import com.example.account.Type.ErrorCode;
